@@ -826,37 +826,6 @@
       "kor": "인도"
     }
   },
-  "VG": {
-    "currency": [
-      "USD"
-    ],
-    "callingCode": [
-      "1284"
-    ],
-    "region": "Americas",
-    "subregion": "Caribbean",
-    "flag": "flag-vg",
-    "name": {
-      "common": "British Virgin Islands",
-      "ces": "Britské Panenské ostrovy",
-      "deu": "Britische Jungferninseln",
-      "fra": "Îles Vierges britanniques",
-      "hrv": "Britanski Djevičanski Otoci",
-      "ita": "Isole Vergini Britanniche",
-      "jpn": "イギリス領ヴァージン諸島",
-      "nld": "Britse Maagdeneilanden",
-      "por": "Ilhas Virgens",
-      "rus": "Британские Виргинские острова",
-      "slk": "Panenské ostrovy",
-      "spa": "Islas Vírgenes del Reino Unido",
-      "fin": "Neitsytsaaret",
-      "est": "Briti Neitsisaared",
-      "zho": "英属维尔京群岛",
-      "pol": "Brytyjskie Wyspy Dziewicze",
-      "urd": "برطانوی جزائر ورجن",
-      "kor": "영국령 버진아일랜드"
-    }
-  },
   "BN": {
     "currency": [
       "BND"
